@@ -2,7 +2,7 @@
 The Rotation Measure Analysis Program - A program designed to calculate Rotation Measures given a set of data from the Canadian Galactic Plane Survey
 
 - Written by Dr. Jo-Anne Brown
-- Modified by Cameron Van Eck
+- Modified by Dr. Cameron Van Eck
 - Ported to Python by Dylan Tuttle
 
 ## Overview
